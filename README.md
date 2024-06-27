@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+MAnifest.json
+notes
+-Action refers to what we want to happen then the extension is clicked
+-Host permissions is which sites the extension should be permitted to run on
+-background service worker will be the scraper working in the background
+
+-npm run build to make the project an actual chrome extension
